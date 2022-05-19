@@ -1,0 +1,60 @@
+#denav{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#logo_nav{
+    background-color: white;
+    width: 40px;
+    text-decoration: none;
+}
+
+#marca{
+    display: inline;
+    padding-left: 7px;
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#opmen{
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 15px;
+    padding: 5px;
+    color: white;
+    display: inline-table;
+}
+
+a:hover{
+    background: #8cbcf3ea;
+}
+
+/*Formularios*/
+#formulario{
+    margin: 60px;
+}
+
+/*Footers*/
+
+footer{
+    background-color:#1A1A1A;
+	height: 50%;
+    color: white;
+    padding: 15px;
+}
+
+.main1{ 
+    display:flex;
+    margin:0 auto;
+}
+
+.log{
+    width: 25px;
+    height: 25px;
+}
+
+a img:hover{
+    color: #fff;
+}
